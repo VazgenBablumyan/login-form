@@ -1,3 +1,16 @@
+.logInForm{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    top:200px;
+}
 .title{
     display: block;
+    margin-top: 20px;
+    font-size: large;
+}
+.inputField{
+    height: 30px;
+    border-radius: 2px solid black;
 }
